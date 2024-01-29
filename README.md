@@ -1,0 +1,1 @@
+Hey there! Here is my code to create a clone of the amazon.com website. I have used only HTML5 and CSS in my project. Hope you like it and feel free to reach out to me regarding any suggestions. Thank you!
